@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Normal Css*/
+
+body {
+    background-color: rgb(7, 7, 7);
+}
+
+.intro {
+    align-items: center;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0; 
+}
